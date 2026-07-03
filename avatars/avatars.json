@@ -1,1 +1,335 @@
-
+{
+  "version": 1,
+  "avatars": [
+    {
+      "id": "crab",
+      "image": "crab.png",
+      "background": "#F28B82"
+    },
+    {
+      "id": "frog",
+      "image": "frog.png",
+      "background": "#81C784"
+    },
+    {
+      "id": "cat",
+      "image": "cat.png",
+      "background": "#FFCC80"
+    },
+    {
+      "id": "penguin",
+      "image": "penguin.png",
+      "background": "#90CAF9"
+    },
+    {
+      "id": "owl",
+      "image": "owl.png",
+      "background": "#B39DDB"
+    },
+    {
+      "id": "bear",
+      "image": "bear.png",
+      "background": "#80CBC4"
+    },
+    {
+      "id": "fox",
+      "image": "fox.png",
+      "background": "#FFB74D"
+    },
+    {
+      "id": "panda",
+      "image": "panda.png",
+      "background": "#E0E0E0"
+    },
+    {
+      "id": "lion",
+      "image": "lion.png",
+      "background": "#FFD54F"
+    },
+    {
+      "id": "shark",
+      "image": "shark.png",
+      "background": "#64B5F6"
+    },
+    {
+      "id": "chick",
+      "image": "chick.png",
+      "background": "#FFF176"
+    },
+    {
+      "id": "crocodile",
+      "image": "crocodile.png",
+      "background": "#9CCC65"
+    },
+    {
+      "id": "koala",
+      "image": "koala.png",
+      "background": "#CFD8DC"
+    },
+    {
+      "id": "dog",
+      "image": "dog.png",
+      "background": "#D7CCC8"
+    },
+    {
+      "id": "octopus",
+      "image": "octopus.png",
+      "background": "#9575CD"
+    },
+    {
+      "id": "rabbit",
+      "image": "rabbit.png",
+      "background": "#F8BBD0"
+    },
+    {
+      "id": "bee",
+      "image": "bee.png",
+      "background": "#FFD54F"
+    },
+    {
+      "id": "monkey",
+      "image": "monkey.png",
+      "background": "#A1887F"
+    },
+    {
+      "id": "raccoon",
+      "image": "raccoon.png",
+      "background": "#B0BEC5"
+    },
+    {
+      "id": "axolotl",
+      "image": "axolotl.png",
+      "background": "#F48FB1"
+    },
+    {
+      "id": "jellyfish_green",
+      "image": "jellyfish_green.png",
+      "background": "#AED581"
+    },
+    {
+      "id": "robot",
+      "image": "robot.png",
+      "background": "#81D4FA"
+    },
+    {
+      "id": "star",
+      "image": "star.png",
+      "background": "#FFE082"
+    },
+    {
+      "id": "parrot",
+      "image": "parrot.png",
+      "background": "#EF5350"
+    },
+    {
+      "id": "butterfly",
+      "image": "butterfly.png",
+      "background": "#64B5F6"
+    },
+    {
+      "id": "sloth",
+      "image": "sloth.png",
+      "background": "#BCAAA4"
+    },
+    {
+      "id": "bat",
+      "image": "bat.png",
+      "background": "#9575CD"
+    },
+    {
+      "id": "whale",
+      "image": "whale.png",
+      "background": "#4FC3F7"
+    },
+    {
+      "id": "jellyfish_pink",
+      "image": "jellyfish_pink.png",
+      "background": "#F48FB1"
+    },
+    {
+      "id": "pufferfish",
+      "image": "pufferfish.png",
+      "background": "#FFD54F"
+    },
+    {
+      "id": "deer",
+      "image": "deer.png",
+      "background": "#D7B899"
+    },
+    {
+      "id": "chameleon",
+      "image": "chameleon.png",
+      "background": "#66BB6A"
+    },
+    {
+      "id": "chicken",
+      "image": "chicken.png",
+      "background": "#FFF9C4"
+    },
+    {
+      "id": "sheep",
+      "image": "sheep.png",
+      "background": "#F5F5F5"
+    },
+    {
+      "id": "goldfish",
+      "image": "goldfish.png",
+      "background": "#FF8A65"
+    },
+    {
+      "id": "bird",
+      "image": "bird.png",
+      "background": "#64B5F6"
+    },
+    {
+      "id": "notebook",
+      "image": "notebook.png",
+      "background": "#5C6BC0"
+    },
+    {
+      "id": "brain",
+      "image": "brain.png",
+      "background": "#F48FB1"
+    },
+    {
+      "id": "globe",
+      "image": "globe.png",
+      "background": "#4DB6AC"
+    },
+    {
+      "id": "flask",
+      "image": "flask.png",
+      "background": "#A5D6A7"
+    },
+    {
+      "id": "atom",
+      "image": "atom.png",
+      "background": "#42A5F5"
+    },
+    {
+      "id": "calculator",
+      "image": "calculator.png",
+      "background": "#90A4AE"
+    },
+    {
+      "id": "set_square",
+      "image": "set_square.png",
+      "background": "#FFCC80"
+    },
+    {
+      "id": "laptop",
+      "image": "laptop.png",
+      "background": "#78909C"
+    },
+    {
+      "id": "plant",
+      "image": "plant.png",
+      "background": "#66BB6A"
+    },
+    {
+      "id": "bear_brown",
+      "image": "bear_brown.png",
+      "background": "#8D6E63"
+    },
+    {
+      "id": "wolf",
+      "image": "wolf.png",
+      "background": "#90A4AE"
+    },
+    {
+      "id": "tiger",
+      "image": "tiger.png",
+      "background": "#FFA726"
+    },
+    {
+      "id": "alien",
+      "image": "alien.png",
+      "background": "#8BC34A"
+    },
+    {
+      "id": "astronaut",
+      "image": "astronaut.png",
+      "background": "#B0BEC5"
+    },
+    {
+      "id": "triceratops",
+      "image": "triceratops.png",
+      "background": "#81C784"
+    },
+    {
+      "id": "dragon",
+      "image": "dragon.png",
+      "background": "#42A5F5"
+    },
+    {
+      "id": "football",
+      "image": "football.png",
+      "background": "#BDBDBD"
+    },
+    {
+      "id": "mushroom",
+      "image": "mushroom.png",
+      "background": "#EF5350"
+    },
+    {
+      "id": "rocket",
+      "image": "rocket.png",
+      "background": "#64B5F6"
+    },
+    {
+      "id": "compass",
+      "image": "compass.png",
+      "background": "#FFCA28"
+    },
+    {
+      "id": "camera",
+      "image": "camera.png",
+      "background": "#78909C"
+    },
+    {
+      "id": "palette",
+      "image": "palette.png",
+      "background": "#BA68C8"
+    },
+    {
+      "id": "earth",
+      "image": "earth.png",
+      "background": "#4DB6AC"
+    },
+    {
+      "id": "saturn",
+      "image": "saturn.png",
+      "background": "#FFB74D"
+    },
+    {
+      "id": "lightbulb",
+      "image": "lightbulb.png",
+      "background": "#FFD54F"
+    },
+    {
+      "id": "books",
+      "image": "books.png",
+      "background": "#5C6BC0"
+    },
+    {
+      "id": "cloud",
+      "image": "cloud.png",
+      "background": "#B3E5FC"
+    },
+    {
+      "id": "tree",
+      "image": "tree.png",
+      "background": "#66BB6A"
+    },
+    {
+      "id": "crystal",
+      "image": "crystal.png",
+      "background": "#81D4FA"
+    },
+    {
+      "id": "coin",
+      "image": "coin.png",
+      "background": "#FBC02D"
+    }
+  ]
+}
