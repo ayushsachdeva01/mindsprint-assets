@@ -1,5 +1,6 @@
 {
     "version": 1,
+    "baseUrl": "https://cdn.jsdelivr.net/gh/ayushsachdeva01/mindsprint-assets@main/avatars/",
     "avatars": [
         {
             "id": 1,
