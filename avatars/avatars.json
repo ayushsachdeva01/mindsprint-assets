@@ -1,335 +1,610 @@
 {
-  "version": 1,
-  "avatars": [
-    {
-      "id": "crab",
-      "image": "crab.png",
-      "background": "#F28B82"
-    },
-    {
-      "id": "frog",
-      "image": "frog.png",
-      "background": "#81C784"
-    },
-    {
-      "id": "cat",
-      "image": "cat.png",
-      "background": "#FFCC80"
-    },
-    {
-      "id": "penguin",
-      "image": "penguin.png",
-      "background": "#90CAF9"
-    },
-    {
-      "id": "owl",
-      "image": "owl.png",
-      "background": "#B39DDB"
-    },
-    {
-      "id": "bear",
-      "image": "bear.png",
-      "background": "#80CBC4"
-    },
-    {
-      "id": "fox",
-      "image": "fox.png",
-      "background": "#FFB74D"
-    },
-    {
-      "id": "panda",
-      "image": "panda.png",
-      "background": "#E0E0E0"
-    },
-    {
-      "id": "lion",
-      "image": "lion.png",
-      "background": "#FFD54F"
-    },
-    {
-      "id": "shark",
-      "image": "shark.png",
-      "background": "#64B5F6"
-    },
-    {
-      "id": "chick",
-      "image": "chick.png",
-      "background": "#FFF176"
-    },
-    {
-      "id": "crocodile",
-      "image": "crocodile.png",
-      "background": "#9CCC65"
-    },
-    {
-      "id": "koala",
-      "image": "koala.png",
-      "background": "#CFD8DC"
-    },
-    {
-      "id": "dog",
-      "image": "dog.png",
-      "background": "#D7CCC8"
-    },
-    {
-      "id": "octopus",
-      "image": "octopus.png",
-      "background": "#9575CD"
-    },
-    {
-      "id": "rabbit",
-      "image": "rabbit.png",
-      "background": "#F8BBD0"
-    },
-    {
-      "id": "bee",
-      "image": "bee.png",
-      "background": "#FFD54F"
-    },
-    {
-      "id": "monkey",
-      "image": "monkey.png",
-      "background": "#A1887F"
-    },
-    {
-      "id": "raccoon",
-      "image": "raccoon.png",
-      "background": "#B0BEC5"
-    },
-    {
-      "id": "axolotl",
-      "image": "axolotl.png",
-      "background": "#F48FB1"
-    },
-    {
-      "id": "jellyfish_green",
-      "image": "jellyfish_green.png",
-      "background": "#AED581"
-    },
-    {
-      "id": "robot",
-      "image": "robot.png",
-      "background": "#81D4FA"
-    },
-    {
-      "id": "star",
-      "image": "star.png",
-      "background": "#FFE082"
-    },
-    {
-      "id": "parrot",
-      "image": "parrot.png",
-      "background": "#EF5350"
-    },
-    {
-      "id": "butterfly",
-      "image": "butterfly.png",
-      "background": "#64B5F6"
-    },
-    {
-      "id": "sloth",
-      "image": "sloth.png",
-      "background": "#BCAAA4"
-    },
-    {
-      "id": "bat",
-      "image": "bat.png",
-      "background": "#9575CD"
-    },
-    {
-      "id": "whale",
-      "image": "whale.png",
-      "background": "#4FC3F7"
-    },
-    {
-      "id": "jellyfish_pink",
-      "image": "jellyfish_pink.png",
-      "background": "#F48FB1"
-    },
-    {
-      "id": "pufferfish",
-      "image": "pufferfish.png",
-      "background": "#FFD54F"
-    },
-    {
-      "id": "deer",
-      "image": "deer.png",
-      "background": "#D7B899"
-    },
-    {
-      "id": "chameleon",
-      "image": "chameleon.png",
-      "background": "#66BB6A"
-    },
-    {
-      "id": "chicken",
-      "image": "chicken.png",
-      "background": "#FFF9C4"
-    },
-    {
-      "id": "sheep",
-      "image": "sheep.png",
-      "background": "#F5F5F5"
-    },
-    {
-      "id": "goldfish",
-      "image": "goldfish.png",
-      "background": "#FF8A65"
-    },
-    {
-      "id": "bird",
-      "image": "bird.png",
-      "background": "#64B5F6"
-    },
-    {
-      "id": "notebook",
-      "image": "notebook.png",
-      "background": "#5C6BC0"
-    },
-    {
-      "id": "brain",
-      "image": "brain.png",
-      "background": "#F48FB1"
-    },
-    {
-      "id": "globe",
-      "image": "globe.png",
-      "background": "#4DB6AC"
-    },
-    {
-      "id": "flask",
-      "image": "flask.png",
-      "background": "#A5D6A7"
-    },
-    {
-      "id": "atom",
-      "image": "atom.png",
-      "background": "#42A5F5"
-    },
-    {
-      "id": "calculator",
-      "image": "calculator.png",
-      "background": "#90A4AE"
-    },
-    {
-      "id": "set_square",
-      "image": "set_square.png",
-      "background": "#FFCC80"
-    },
-    {
-      "id": "laptop",
-      "image": "laptop.png",
-      "background": "#78909C"
-    },
-    {
-      "id": "plant",
-      "image": "plant.png",
-      "background": "#66BB6A"
-    },
-    {
-      "id": "bear_brown",
-      "image": "bear_brown.png",
-      "background": "#8D6E63"
-    },
-    {
-      "id": "wolf",
-      "image": "wolf.png",
-      "background": "#90A4AE"
-    },
-    {
-      "id": "tiger",
-      "image": "tiger.png",
-      "background": "#FFA726"
-    },
-    {
-      "id": "alien",
-      "image": "alien.png",
-      "background": "#8BC34A"
-    },
-    {
-      "id": "astronaut",
-      "image": "astronaut.png",
-      "background": "#B0BEC5"
-    },
-    {
-      "id": "triceratops",
-      "image": "triceratops.png",
-      "background": "#81C784"
-    },
-    {
-      "id": "dragon",
-      "image": "dragon.png",
-      "background": "#42A5F5"
-    },
-    {
-      "id": "football",
-      "image": "football.png",
-      "background": "#BDBDBD"
-    },
-    {
-      "id": "mushroom",
-      "image": "mushroom.png",
-      "background": "#EF5350"
-    },
-    {
-      "id": "rocket",
-      "image": "rocket.png",
-      "background": "#64B5F6"
-    },
-    {
-      "id": "compass",
-      "image": "compass.png",
-      "background": "#FFCA28"
-    },
-    {
-      "id": "camera",
-      "image": "camera.png",
-      "background": "#78909C"
-    },
-    {
-      "id": "palette",
-      "image": "palette.png",
-      "background": "#BA68C8"
-    },
-    {
-      "id": "earth",
-      "image": "earth.png",
-      "background": "#4DB6AC"
-    },
-    {
-      "id": "saturn",
-      "image": "saturn.png",
-      "background": "#FFB74D"
-    },
-    {
-      "id": "lightbulb",
-      "image": "lightbulb.png",
-      "background": "#FFD54F"
-    },
-    {
-      "id": "books",
-      "image": "books.png",
-      "background": "#5C6BC0"
-    },
-    {
-      "id": "cloud",
-      "image": "cloud.png",
-      "background": "#B3E5FC"
-    },
-    {
-      "id": "tree",
-      "image": "tree.png",
-      "background": "#66BB6A"
-    },
-    {
-      "id": "crystal",
-      "image": "crystal.png",
-      "background": "#81D4FA"
-    },
-    {
-      "id": "coin",
-      "image": "coin.png",
-      "background": "#FBC02D"
-    }
-  ]
+    "version": 1,
+    "avatars": [
+        {
+            "id": 1,
+            "image": "1.png",
+            "background": "#B3E5FC"
+        },
+        {
+            "id": 2,
+            "image": "2.png",
+            "background": "#FFF3C4"
+        },
+        {
+            "id": 3,
+            "image": "3.png",
+            "background": "#CFE8FF"
+        },
+        {
+            "id": 4,
+            "image": "4.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 5,
+            "image": "5.png",
+            "background": "#F3E8FF"
+        },
+        {
+            "id": 6,
+            "image": "6.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 7,
+            "image": "7.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 8,
+            "image": "8.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 9,
+            "image": "9.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 10,
+            "image": "10.png",
+            "background": "#E1F5FE"
+        },
+        {
+            "id": 11,
+            "image": "11.png",
+            "background": "#FFFDE7"
+        },
+        {
+            "id": 12,
+            "image": "12.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 13,
+            "image": "13.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 14,
+            "image": "14.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 15,
+            "image": "15.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 16,
+            "image": "16.png",
+            "background": "#F3E5F5"
+        },
+        {
+            "id": 17,
+            "image": "17.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 18,
+            "image": "18.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 19,
+            "image": "19.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 20,
+            "image": "20.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 21,
+            "image": "21.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 22,
+            "image": "22.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 23,
+            "image": "23.png",
+            "background": "#E8EAF6"
+        },
+        {
+            "id": 24,
+            "image": "24.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 25,
+            "image": "25.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 26,
+            "image": "26.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 27,
+            "image": "27.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 28,
+            "image": "28.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 29,
+            "image": "29.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 30,
+            "image": "30.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 31,
+            "image": "31.png",
+            "background": "#F5F5F5"
+        },
+        {
+            "id": 32,
+            "image": "32.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 33,
+            "image": "33.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 34,
+            "image": "34.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 35,
+            "image": "35.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 36,
+            "image": "36.png",
+            "background": "#F3E5F5"
+        },
+        {
+            "id": 37,
+            "image": "37.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 38,
+            "image": "38.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 39,
+            "image": "39.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 40,
+            "image": "40.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 41,
+            "image": "41.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 42,
+            "image": "42.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 43,
+            "image": "43.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 44,
+            "image": "44.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 45,
+            "image": "45.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 46,
+            "image": "46.png",
+            "background": "#E1F5FE"
+        },
+        {
+            "id": 47,
+            "image": "47.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 48,
+            "image": "48.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 49,
+            "image": "49.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 50,
+            "image": "50.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 51,
+            "image": "51.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 52,
+            "image": "52.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 53,
+            "image": "53.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 54,
+            "image": "54.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 55,
+            "image": "55.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 56,
+            "image": "56.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 57,
+            "image": "57.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 58,
+            "image": "58.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 59,
+            "image": "59.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 60,
+            "image": "60.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 61,
+            "image": "61.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 62,
+            "image": "62.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 63,
+            "image": "63.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 64,
+            "image": "64.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 65,
+            "image": "65.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 66,
+            "image": "66.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 67,
+            "image": "67.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 68,
+            "image": "68.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 69,
+            "image": "69.png",
+            "background": "#F3E8FF"
+        },
+        {
+            "id": 70,
+            "image": "70.png",
+            "background": "#E8F5FF"
+        },
+        {
+            "id": 71,
+            "image": "71.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 72,
+            "image": "72.png",
+            "background": "#F3E8FF"
+        },
+        {
+            "id": 73,
+            "image": "73.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 74,
+            "image": "74.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 75,
+            "image": "75.png",
+            "background": "#E8F5FF"
+        },
+        {
+            "id": 76,
+            "image": "76.png",
+            "background": "#F3E8FF"
+        },
+        {
+            "id": 77,
+            "image": "77.png",
+            "background": "#FFE0B2"
+        },
+        {
+            "id": 78,
+            "image": "78.png",
+            "background": "#CFD8DC"
+        },
+        {
+            "id": 79,
+            "image": "79.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 80,
+            "image": "80.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 81,
+            "image": "81.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 82,
+            "image": "82.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 83,
+            "image": "83.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 84,
+            "image": "84.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 85,
+            "image": "85.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 86,
+            "image": "86.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 87,
+            "image": "87.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 88,
+            "image": "88.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 89,
+            "image": "89.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 90,
+            "image": "90.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 91,
+            "image": "91.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 92,
+            "image": "92.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 93,
+            "image": "93.png",
+            "background": "#FFE0E0"
+        },
+        {
+            "id": 94,
+            "image": "94.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 95,
+            "image": "95.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 96,
+            "image": "96.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 97,
+            "image": "97.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 98,
+            "image": "98.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 99,
+            "image": "99.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 100,
+            "image": "100.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 101,
+            "image": "101.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 102,
+            "image": "102.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 103,
+            "image": "103.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 104,
+            "image": "104.png",
+            "background": "#F5F5F5"
+        },
+        {
+            "id": 105,
+            "image": "105.png",
+            "background": "#FFE0E0"
+        },
+        {
+            "id": 106,
+            "image": "106.png",
+            "background": "#EDE7F6"
+        },
+        {
+            "id": 107,
+            "image": "107.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 108,
+            "image": "108.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 109,
+            "image": "109.png",
+            "background": "#FFE0E0"
+        },
+        {
+            "id": 110,
+            "image": "110.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 111,
+            "image": "111.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 112,
+            "image": "112.png",
+            "background": "#F3E8FF"
+        },
+        {
+            "id": 113,
+            "image": "113.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 114,
+            "image": "114.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 115,
+            "image": "115.png",
+            "background": "#FFF8E1"
+        },
+        {
+            "id": 116,
+            "image": "116.png",
+            "background": "#FCE4EC"
+        },
+        {
+            "id": 117,
+            "image": "117.png",
+            "background": "#E8F5E9"
+        },
+        {
+            "id": 118,
+            "image": "118.png",
+            "background": "#FFF3E0"
+        },
+        {
+            "id": 119,
+            "image": "119.png",
+            "background": "#E3F2FD"
+        },
+        {
+            "id": 120,
+            "image": "120.png",
+            "background": "#ECEFF1"
+        },
+        {
+            "id": 121,
+            "image": "121.png",
+            "background": "#E3F2FD"
+        }
+    ]
 }
